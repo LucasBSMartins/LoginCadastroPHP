@@ -1,6 +1,6 @@
 <?php
 // Conecta-se ao banco de dados MySQL
-$mysqli = mysqli_connect('db', 'lucas', 'senha', 'cadastro');
+$mysqli = mysqli_connect('db', 'user123', '123456', 'cadastro');
 
 // Verifica se a conexão foi bem-sucedida
 if ($mysqli->connect_error) {

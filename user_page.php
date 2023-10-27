@@ -3,7 +3,7 @@
 session_start();
 
 // Conecta-se ao banco de dados usando MySQLi
-$mysqli = mysqli_connect('db', 'lucas', 'senha', 'cadastro');
+$mysqli = mysqli_connect('db', 'user123', '123456', 'cadastro');
 
 // Verifica se a conexão com o banco de dados foi bem-sucedida
 
