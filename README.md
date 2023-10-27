@@ -1,10 +1,10 @@
 # LoginCadastroPHP
 
-A simple login register php, using docker. 
+A simple PHP login and registration system using Docker.
 
 ## Requirements
 
-To run this project, you need the following:
+To run this project, you'll need the following:
 
 - Docker
 
@@ -28,10 +28,9 @@ Follow these steps to run the project:
    docker-compose build
    docker-compose up
 
-
 # Using the software
 
-   If you want to use the software, go to localhost with your docker running
+   If you want to use the software, go to localhost in your navigator with your docker running
 
 # Database
 
